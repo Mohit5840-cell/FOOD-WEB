@@ -1,4 +1,3 @@
-Created By Munesh Meena. I have been working on this project for the last 6 months. But finally successfully completed this project. Special Thanks to my friends, Mankesh Meena, Rishit, and Ronak Jain, for clearing my doubts during the project.
 
 Live Hosted Link: [https://gofood-three.vercel.app/](https://gofood-three.vercel.app/)
 
