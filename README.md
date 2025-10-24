@@ -37,5 +37,5 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 # goFood-webapplication(Food_App)
 
-Created By Mohit Kumar. I have been working on this project for the last 6 months. But finally successfully completed this project. Special Thanks to my friends, Rahul singh, Laksh kumar  for clearing my doubts during the project.
+Created By Mohit Kumar. I have been working on this project for the last 6 months. But finally successfully completed this project. Special Thanks to my friends, Rahul singh, Laksh kumar,Munesh  for clearing my doubts during the project.
 
